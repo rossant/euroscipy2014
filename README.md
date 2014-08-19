@@ -35,16 +35,17 @@ In this tutorial, we will illustrate different features and APIs for creating in
 > Some of the code examples come from the [IPython Cookbook](http://ipython-books.github.io), Packt Publishing, featuring high-performance interactive computing methods for data science and mathematical modeling.
 
 
-1. Calling your Python functions with graphical controls.
+1. **Calling your Python functions with graphical controls**.
     * Using the `@interact` decorator.
-2. Interactive data visualization in the notebook.
+    * Controlling matplotlib figures with widgets.
+2. **Interactive data visualization in the notebook**.
     * Making matplotlib figures interactive in the notebook with mpld3.
     * Creating an interactive visualization of a networkX graph with d3.js.
-3. Creating a GUI in the notebook.
+3. **Creating a GUI in the notebook**.
     * Creating widgets.
     * Positioning widgets.
     * Styling widgets.
-4. Creating a custom notebook widget with backbone.js.
+4. **Creating a custom notebook widget with backbone.js**.
 
 
 ## Further reading

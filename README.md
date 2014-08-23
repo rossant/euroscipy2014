@@ -44,7 +44,7 @@ In this tutorial, we will illustrate different features and APIs for creating in
     * Making matplotlib figures interactive in the notebook.
     * A crash course on d3.js.
     * Showing a networkX graph with d3.js.
-3. [**Creating a GUI in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_widgets.ipynb).
+3. [**Creating a GUI in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_dataviz.ipynb).
     * Creating widgets.
     * Positioning widgets.
     * Styling widgets.

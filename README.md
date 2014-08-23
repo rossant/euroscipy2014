@@ -38,13 +38,14 @@ In this tutorial, we will illustrate different features and APIs for creating in
 1. **Calling your Python functions with graphical controls**.
     * Using the `@interact` decorator.
     * Controlling matplotlib figures with widgets.
-2. **Interactive data visualization in the notebook**.
-    * Making matplotlib figures interactive in the notebook with mpld3.
-    * Creating an interactive visualization of a networkX graph with d3.js.
-3. **Creating a GUI in the notebook**.
+2. **Creating a GUI in the notebook**.
     * Creating widgets.
     * Positioning widgets.
     * Styling widgets.
+    * Adding GUI logic.
+3. **Interactive data visualization in the notebook**.
+    * Making matplotlib figures interactive in the notebook with mpld3.
+    * Creating an interactive visualization of a networkX graph with d3.js.
 4. **Creating a custom notebook widget with backbone.js**.
 
 

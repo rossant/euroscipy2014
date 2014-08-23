@@ -2,9 +2,10 @@
 ========================================
 
 * **When?** August 27th, 9-10.30
-* **Where?** IfM, Cambridge University, UK
+* **Where?** [IfM, Cambridge University, UK](http://www.openstreetmap.org/?mlat=52.20948&mlon=0.08736#map=17/52.20948/0.08736)
+* [Chat room](https://gitter.im/rossant/euroscipy2014) (asking questions, requesting help, etc.)
 
-Introducing the interactive features of the IPython Notebook 2.0.
+Introducing the interactive features of the IPython 2.0 Notebook.
 
 > Most of the code examples come from the [IPython Cookbook](http://ipython-books.github.io), Packt Publishing, featuring high-performance interactive computing methods for data science and mathematical modeling.
 

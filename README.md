@@ -39,23 +39,23 @@ In this tutorial, we illustrate different features and APIs for creating interac
 
 ### 1. [**Calling your Python functions with graphical controls**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/01_interact.ipynb)
 
-    We show how to use the `@interact` decorator to create simple GUI controlling Python functions in real time.
-    
-    ![Part 1](screenshots/screen1.png)
+We show how to use the `@interact` decorator to create simple GUI controlling Python functions in real time.
+
+![Part 1](screenshots/screen1.png)
     
 ### 2. [**Creating a GUI in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/02_gui.ipynb)
     
-    Elaborating on the previous example, we show how to create a more complex GUI with custom positioning, styling, and logic. The entire GUI is implemented in Python: there is no JavaScript code to write at this point.
-    
-    ![Part 2](screenshots/screen2.png)
+Elaborating on the previous example, we show how to create a more complex GUI with custom positioning, styling, and logic. The entire GUI is implemented in Python: there is no JavaScript code to write at this point.
+
+![Part 2](screenshots/screen2.png)
     
 ### 3. [**Interactive data visualization in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_dataviz.ipynb)
 
-    In this part, we explore several interactive data visualization solutions in the notebook, mostly based on the **d3.js** JavaScript library. We first show how to easily make matplotlib figures interactive in the notebook with **mpld3**.
-    
-    Then, we introduce the *very* basics of d3.js, and we show how to render a networkX graph dynamically in the notebook. There is some JavaScript code to write here.
-    
-    ![Part 3](screenshots/screen3.png)
+In this part, we explore several interactive data visualization solutions in the notebook, mostly based on the **d3.js** JavaScript library. We first show how to easily make matplotlib figures interactive in the notebook with **mpld3**.
+
+Then, we introduce the *very* basics of d3.js, and we show how to render a networkX graph dynamically in the notebook. There is some JavaScript code to write here.
+
+![Part 3](screenshots/screen3.png)
     
 ### 4. [**Creating a custom notebook widget with backbone.js**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/04_custom.ipynb)
 

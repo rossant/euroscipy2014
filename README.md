@@ -3,13 +3,14 @@ EuroSciPy 2014 IPython Advanced Tutorial
 
 Introducing the interactive features of the IPython Notebook 2.0.
 
+> Most of the code examples come from the [IPython Cookbook](http://ipython-books.github.io), Packt Publishing, featuring high-performance interactive computing methods for data science and mathematical modeling.
 
 ## Requirements
 
 Simpler option is to install [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
-* Python 2.7 or Python 3.3+
-* IPython 2.0+
+* Python 2.7 or Python >= 3.3
+* IPython >= 2.0
 * NumPy
 * matplotlib
 * scikit-learn (part 2)
@@ -32,9 +33,8 @@ ipython notebook --profile=euroscipy2014
 
 ## Contents
 
-In this tutorial, we will illustrate different features and APIs for creating interactive widgets and visualizations in the IPython notebook.
+In this tutorial, we illustrate different features and APIs for creating interactive widgets and visualizations in the IPython notebook.
 
-> Most of the code examples come from the [IPython Cookbook](http://ipython-books.github.io), Packt Publishing, featuring high-performance interactive computing methods for data science and mathematical modeling.
 
 
 1. [**Calling your Python functions with graphical controls**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/01_interact.ipynb).

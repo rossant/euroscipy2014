@@ -1,5 +1,8 @@
-EuroSciPy 2014 IPython Advanced Tutorial
+[EuroSciPy 2014](https://www.euroscipy.org/2014/schedule/presentation/60/) IPython Advanced Tutorial
 ========================================
+
+* **When?** August 27th, 9-10.30
+* **Where?** IfM, Cambridge University, UK
 
 Introducing the interactive features of the IPython Notebook 2.0.
 

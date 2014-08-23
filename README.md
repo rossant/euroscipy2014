@@ -40,14 +40,14 @@ In this tutorial, we will illustrate different features and APIs for creating in
 1. [**Calling your Python functions with graphical controls**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/01_interact.ipynb).
     * Using the `@interact` decorator.
     * Controlling matplotlib figures with widgets.
-2. [**Interactive data visualization in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/02_gui.ipynb).
-    * Making matplotlib figures interactive in the notebook.
-    * A crash course on d3.js.
-    * Showing a networkX graph with d3.js.
-3. [**Creating a GUI in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_dataviz.ipynb).
+2. [**Creating a GUI in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/02_gui.ipynb).
     * Creating widgets.
     * Positioning widgets.
     * Styling widgets.
+3. [**Interactive data visualization in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_dataviz.ipynb).
+    * Making matplotlib figures interactive in the notebook.
+    * A crash course on d3.js.
+    * Showing a networkX graph with d3.js.
 4. [**Creating a custom notebook widget with backbone.js**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/04_custom.ipynb).
 
 

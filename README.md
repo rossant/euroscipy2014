@@ -14,7 +14,7 @@ Introducing the interactive features of the IPython 2.0 Notebook.
 Simpler option is to install [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 * Python 2.7 or Python >= 3.3
-* IPython >= 2.0
+* IPython 2.2 (This has been written with the latest stable version, released in August. Some tweaking might be necessary if you use the development version 3.0.0.dev)
 * NumPy
 * matplotlib
 * scikit-learn (part 2)

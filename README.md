@@ -18,8 +18,8 @@ Simpler option is to install [Anaconda](https://store.continuum.io/cshop/anacond
 * NumPy
 * matplotlib
 * scikit-learn (part 2)
-* mpld3 (part 3, `pip install mpld3`)
-* networkX (part 3, `pip install networkx`)
+* mpld3 (part 4, `pip install mpld3`)
+* networkX (part 4, `pip install networkx`)
 * a recent browser:
     * Chrome >= 13
     * Safari >= 5

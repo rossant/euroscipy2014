@@ -54,7 +54,7 @@ Elaborating on the previous example, we show how to create a more complex GUI wi
 ![Part 2](screenshots/screen2.png)
 
 
-### 3. [**Creating a custom notebook widget with backbone.js**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/04_custom.ipynb)
+### 3. [**Creating a custom notebook widget with backbone.js**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_custom.ipynb)
 
 In this part, we create an entirely custom widget with HTML, JavaScript, and backbone.js. We show how custom widgets can be designed to play well with the rest of the widget machinery.
 
@@ -62,7 +62,7 @@ In this part, we create an entirely custom widget with HTML, JavaScript, and bac
 
 
 
-### 4. [**Interactive data visualization in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/03_dataviz.ipynb)
+### 4. [**Interactive data visualization in the notebook**](http://nbviewer.ipython.org/github/rossant/euroscipy2014/blob/master/04_dataviz.ipynb)
 
 In this part, we explore several interactive data visualization solutions in the notebook, mostly based on the **d3.js** JavaScript library. We first show how to easily make matplotlib figures interactive in the notebook with **mpld3**.
 
